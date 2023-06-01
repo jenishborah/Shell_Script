@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+# Using is-elseif-else
 
 echo "enter the first  value= "
 read a
