@@ -1,5 +1,5 @@
 #!/bin/sh
-
+# Using loop do-while
 a=0
 while [ "$a" -lt 10 ]    # this is loop1
 do
