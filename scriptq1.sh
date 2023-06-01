@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# using if-else
 a=10
 b=20
 
