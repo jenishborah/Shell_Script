@@ -1,5 +1,10 @@
 # Shell_Script
 
+## Guides 
+
+### [Scripting Guide](Short-Guide.md)
+
+### [Commands Guide](Linux-Commands-Guide.md)
 
 ## Questions
 
