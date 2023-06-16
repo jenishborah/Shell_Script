@@ -23,7 +23,8 @@
 13. Checking whether a file or directory exists in a system
 14. Checking whether a pattern in a file exists
 
-##Practical Questions
+## Practical Questions
+
 Question1: Write a bash script to take a number n as command line argument. Write a
 function to accept the argument and check whether it is greater than 10. If not, prompt
 the user to enter the number inside the function. Then print all the even numbers till n
